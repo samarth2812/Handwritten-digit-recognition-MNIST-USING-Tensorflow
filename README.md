@@ -3,6 +3,7 @@
 Handwritten digit recognition is the ability of computers to recognize human handwritten digits.
 I have taken refrences from a blog on Mnist handwritten digit classification using tensorflow
 by milindsoorya.
+Link -->https://dev.to/milindsoorya/mnist-handwritten-digit-classification-using-tensorflow-3k7d
 
 
 
