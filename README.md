@@ -1,6 +1,6 @@
 
 # Handwritten Digit Recognition
-Hello World!! of Neural Network
+Hello World!! of Neural Network </br>
 Handwritten digit recognition is the ability of computers to recognize human handwritten digits.</br>
 I have taken refrences from a blog on Mnist handwritten digit classification using tensorflow
 by milindsoorya.</br>
